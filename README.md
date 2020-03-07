@@ -1,4 +1,4 @@
-# react-basics
+# React Basics CRUD
 리액트(기초) 프로젝트 저장소입니다.
 
 ### `react-form-crud`
