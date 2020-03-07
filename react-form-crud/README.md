@@ -1,14 +1,13 @@
-C
--------------
-R
--------------
-U
--------------
-D
--------------
+# CRUD(Create Read Update Delete)
+Form Tag를 사용하여 진행한 리액트(기초) 프로젝트입니다.
 
-## Create Read Update Delete
-FORM TAG를 사용한 기초 리액트입니다.
+## 세부사항
+1. creat, update, delete 버튼으로 제어하는 화면
+    - creat => 클릭 시, 1개의 리스트 생성
+    - update => 클릭 시, 생성된 리스트 내용 수정
+    - delete => 클릭 시, 생성된 리스트 삭제
+
+2. nav의 li 클릭 시, 페이지의 지정된 장소에서 li의 title, description이 동적으로 보여진다.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
