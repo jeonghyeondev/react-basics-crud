@@ -3,7 +3,7 @@
 
 ### `react-form-crud`
 CRUD(Create Read Update Delete) Form Tag를 사용하여 진행한 리액트(기초) 프로젝트입니다.
-    1. Form Tag (creat, update, delete)
+    * 1. Form Tag (creat, update, delete)
     2. Sass
     3. props
         - 컴포넌트 내부의 `Immutable Data`
